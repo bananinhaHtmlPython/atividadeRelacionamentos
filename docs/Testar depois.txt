@@ -1,0 +1,9 @@
+Testar depois:
+Visão geral criada por IA              
+Para colocar música de fundo em um site, você deve usar a tag HTML5 <audio> com os atributos de reprodução automática (autoplay) e repetição (loop), lembrando que os navegadores modernos bloqueiam o som automático sem a interação do usuário.Como fazer no código HTMLInsira o seguinte código no corpo da sua página HTML: [1] (https://www.youtube.com/watch?v=_yiQGVK-p0g), [2] (https://www.youtube.com/watch?v=X_BbaMZ3n4k&t=384)html<audio autoplay loop>
+  <source src="caminho-do-seu-arquivo.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+Use o código com cuidado.autoplay: Faz o áudio iniciar sozinho.loop: Mantém a música repetindo sem parar.controls: Adicione esse atributo se quiser mostrar os botões de play e pause para o visitante (o que é uma boa prática de experiência do usuário). [1] (https://www.youtube.com/watch?v=X_BbaMZ3n4k&t=384)Dicas ImportantesBloqueio de navegadores: A maioria dos navegadores atuais impede que sons comecem automaticamente (autoplay) antes que o usuário clique em alguma parte da página.Controle para o usuário: Permitir que o visitante pause ou abaixe o volume evita uma experiência incômoda. [1] (https://www.youtube.com/watch?v=X_BbaMZ3n4k&t=384)
+------------------------------------------------------------------------------------------------------------------------------
+Quero fazer um site cômico de romance com o flowey no meio com o LOVE e com aquela música em loop
